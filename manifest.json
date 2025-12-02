@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Mistral OCR - PDF Extractor",
+  "version": "1.0",
+  "description": "Extrai texto de PDFs usando Mistral OCR API",
+  "permissions": ["activeTab", "scripting", "tabs"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Mistral OCR"
+  },
+  "host_permissions": [
+    "https://api.mistral.ai/*",
+    "https://*/*"
+  ]
+}
