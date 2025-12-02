@@ -1,4 +1,4 @@
-# 🚀 Mistral OCR Chrome Extension
+# 🚀 PDF TO MRKDOWN FAST
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![Chrome](https://img.shields.io/badge/Chrome-Extension-4285F4?style=flat&logo=google-chrome&logoColor=white)
@@ -50,3 +50,4 @@ Uma extensão poderosa para Chrome que utiliza a API da Mistral AI para converte
 Sinta-se à vontade para abrir issues ou enviar pull requests para melhorias!
 
 ---
+
