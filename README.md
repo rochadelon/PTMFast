@@ -50,4 +50,3 @@ Uma extensão poderosa para Chrome que utiliza a API da Mistral AI para converte
 Sinta-se à vontade para abrir issues ou enviar pull requests para melhorias!
 
 ---
-Desenvolvido com ❤️ usando Mistral OCR API.
