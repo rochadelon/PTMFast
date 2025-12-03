@@ -1,4 +1,4 @@
-# 🚀 Mistral OCR Chrome Extension
+# 🚀 PDF TO MARKDOWN FAST
 
 <div align="center">
   <video src="demo.mp4" controls width="100%"></video>
@@ -54,4 +54,5 @@ Uma extensão poderosa para Chrome que utiliza a API da Mistral AI para converte
 Sinta-se à vontade para abrir issues ou enviar pull requests para melhorias!
 
 ---
-Desenvolvido com ❤️ usando Mistral OCR API.
+
+
