@@ -1,5 +1,9 @@
 # 🚀 Mistral OCR Chrome Extension
 
+<div align="center">
+  <video src="demo.mp4" controls width="100%"></video>
+</div>
+
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![Chrome](https://img.shields.io/badge/Chrome-Extension-4285F4?style=flat&logo=google-chrome&logoColor=white)
 ![Mistral AI](https://img.shields.io/badge/Mistral%20AI-Powered-F5A623?style=flat&logo=openai&logoColor=white)
